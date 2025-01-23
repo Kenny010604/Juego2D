@@ -56,12 +56,6 @@
 
         </LinearLayout>
 
-        <Button
-            android:id="@+id/button"
-            android:layout_width="387dp"
-            android:layout_height="566dp"
-            android:text="Button" />
-
 
     </FrameLayout>
 
